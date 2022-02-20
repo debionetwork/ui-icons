@@ -1,0 +1,18 @@
+{
+    "version": "0.0.1",
+    "description": "A collection of icons used in DeBio Network's UI apps.",
+    "main": "src/index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/debionetwork/ui-icons.git"
+    },
+    "keywords": ["svg", "icons", "components", "debio-network", "browser", "ui", "nodejs", "kit"],
+    "author": "Agustinus Theodorus <agustinustheoo@gmail.com>, Dicki Maulana <dickimaulanawebdev@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/debionetwork/ui-icons/issues"
+    },
+    "homepage": "https://github.com/debionetwork/ui-icons#readme",
+    "name": "@debionetwork/ui-icons"
+  }
+  
