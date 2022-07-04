@@ -8,7 +8,7 @@
     },
     "keywords": ["svg", "icons", "components", "debio-network", "browser", "ui", "nodejs", "kit"],
     "author": "Agustinus Theodorus <agustinustheoo@gmail.com>, Dicki Maulana <dickimaulanawebdev@gmail.com>",
-    "license": "ISC",
+    "license": "AGPL-3.0",
     "bugs": {
       "url": "https://github.com/debionetwork/ui-icons/issues"
     },
