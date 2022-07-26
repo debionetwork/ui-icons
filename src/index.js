@@ -69,8 +69,14 @@ import geneticDnaIcon from "./geneticDna"
 import plusCircle from "./plus-circle"
 import geneticIllustration from "./geneticIllustration"
 import emptyDataIllustration from "./emptyDataIllustration"
+import bookGradient from "./bookGradient"
+import cardGradient from "./cardGradient"
+import partialBookGradient from "./partialBookGradient"
 
 export {
+  bookGradient,
+  cardGradient,
+  partialBookGradient,
   creditCardIcon,
   layersIcon,
   alertIcon,
