@@ -1,5 +1,5 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "A collection of icons used in DeBio Network's UI apps.",
     "main": "src/index.js",
     "repository": {
