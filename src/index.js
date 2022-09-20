@@ -72,6 +72,10 @@ import emptyDataIllustration from "./emptyDataIllustration"
 import bookGradient from "./bookGradient"
 import cardGradient from "./cardGradient"
 import partialBookGradient from "./partialBookGradient"
+import menstrualCalendarBanner from "./menstrualCalendarBanner"
+import menstrualCalendarBeosure from "./menstrualCalendarBeosure"
+import nearLogo from "./nearLogo"
+import tetherLogo from "./tetherLogo"
 
 export {
   bookGradient,
@@ -147,5 +151,9 @@ export {
   geneticDnaIcon,
   plusCircle,
   geneticIllustration,
-  emptyDataIllustration
+  emptyDataIllustration,
+  menstrualCalendarBanner,
+  menstrualCalendarBeosure,
+  nearLogo,
+  tetherLogo
 }
